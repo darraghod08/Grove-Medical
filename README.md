@@ -10,6 +10,9 @@ This is my first website that I worked on "professionally" , this is the website
 # Animations in GIF format written in Javascript:
 <img width="800" height="382" alt="Website Animations" src="https://github.com/user-attachments/assets/6ddcc5fd-42ec-44b0-9058-01c9f37c529a" />
 
+# Using Javascript to grab computers time to see if the GP is open or not (Will be changed to grab time in GMT in future date to fix confusion from other timezones which will most likely never happen but as a safe workaround)
+<img width="1076" height="445" alt="image" src="https://github.com/user-attachments/assets/1145789e-e67d-42e1-a282-02f6c500ceaf" />
+
 # Uses of SVG instead of emojis:
 <img width="1893" height="906" alt="image" src="https://github.com/user-attachments/assets/0ff8019b-7357-4975-97c3-f73a83f2015b" />
 <img width="1901" height="908" alt="image" src="https://github.com/user-attachments/assets/c3b0e797-6cf8-45fe-8c51-659a9096644c" />
