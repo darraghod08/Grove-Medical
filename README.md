@@ -1,5 +1,5 @@
 # Grove-Medical
-This is my first website that I worked on "professionally" , this is the website a bit before finally release so I will link the web page becomes public and at the moment there is still some placeholders.
+This is my first website that I worked on "professionally" , this is the website a bit before finally release so I will forward the link to the web page when it becomes public but at the moment there is still some placeholders inserted.
 
 # Here is the Main Page with a Placeholder background and a working cookies system:
 <img width="1901" height="906" alt="image" src="https://github.com/user-attachments/assets/2c75b22e-9953-4e02-a86e-f8de76441a03" />
